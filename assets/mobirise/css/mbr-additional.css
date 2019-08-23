@@ -1,8 +1,10 @@
 @font-face{ 
-	font-family: 'Korinth';
-	src: url('WebFont.eot');
-	src: url('WebFont.eot?#iefix') format('embedded-opentype'),
-	     url('WebFont.woff') format('woff')
+    font-family: 'korinth_serial-light';
+    src: url('korinth_serial-light-webfont.woff2') format('woff2'),
+         url('korinth_serial-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @import url(https://fonts.googleapis.com/css?family=Arima+Madurai:100,200,300,400,500,700,800,900);
